@@ -13,13 +13,6 @@
 
 <h2><p><a target="_blank" href="https://git.io/fgp">翻墙软件/通道</p></h2>
 
-<p><a href="https://cdn.jsdelivr.net/gh/ulskhc2002/www/szzd/SzzdOgate.apk">神州正道（安卓版）</a></p>
-<p><a href="https://cdn.jsdelivr.net/gh/ulskhc2002/www/szzd/szzdogate.rar">神州正道（网页版）</a></p>
-<p><a href="https://cdn.jsdelivr.net/gh/ulskhc2002/www/szzd/SzzdOgateTV.apk">神州正道（电视机顶盒版）</a></p></p>
-
-<p><a href="https://cdn.jsdelivr.net/gh/ulskhc2002/www/szzd/oGate.apk">网门（安卓版）</a></p>
-<p><a href="https://cdn.jsdelivr.net/gh/ulskhc2002/www/szzd/oGate.zip">网门（电脑版）</a></p></p>
-
 <p><a href="https://cdn.jsdelivr.net/gh/ulskhc2002/www/szzd/fgp.zip">自由门（电脑版）</a></p>
 <p><a href="https://cdn.jsdelivr.net/gh/ulskhc2002/www/szzd/fgma.apk">自由门（安卓版）</a></p>
 <p><a href="https://cdn.jsdelivr.net/gh/ulskhc2002/www/szzd/iPPOTV.zip">爱博电视（电脑版）</a></p></p>
@@ -27,9 +20,16 @@
 <p><a href="https://cdn.jsdelivr.net/gh/ulskhc2002/www/szzd/u.zip">无界浏览（电脑版）</a></p>
 <p><a href="https://cdn.jsdelivr.net/gh/ulskhc2002/www/szzd/um.apk">无界浏览（安卓版）</a></p></p>
 
+<p><a target="_blank" href="https://is.gd/qF8pjs">动态网</a></p></p>
+
+<p><a href="https://cdn.jsdelivr.net/gh/ulskhc2002/www/szzd/SzzdOgate.apk">神州正道（安卓版）</a></p>
+<p><a href="https://cdn.jsdelivr.net/gh/ulskhc2002/www/szzd/szzdogate.rar">神州正道（网页版）</a></p>
+<p><a href="https://cdn.jsdelivr.net/gh/ulskhc2002/www/szzd/SzzdOgateTV.apk">神州正道（电视机顶盒版）</a></p></p>
+
 <p><a target="_blank" href="https://rawcdn.githack.com/ulskhc2002/oo/master/wm.html?from=nayunhai_852">网门网页动态版</a></p>
-<p><a target="_blank" href="https://is.gd/qF8pjs">动态网</a></p>
-<p><a target="_blank" href="https://github.com/odoor2/oo/blob/master/README.md">网门软件下载</a></p></p>
+<p><a target="_blank" href="https://github.com/odoor2/oo/blob/master/README.md">网门软件下载</a></p>
+<p><a href="https://cdn.jsdelivr.net/gh/ulskhc2002/www/szzd/oGate.apk">网门（安卓版）</a></p>
+<p><a href="https://cdn.jsdelivr.net/gh/ulskhc2002/www/szzd/oGate.zip">网门（电脑版）</a></p></p>
 
 <p><a target="_blank" href="https://github.com/hao2369/a/wiki/jyg">聚缘阁网页代理</a></p>
 <p>
