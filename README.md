@@ -20,8 +20,6 @@
 <p><a href="https://cdn.jsdelivr.net/gh/ulskhc2002/www/szzd/u.zip">无界浏览（电脑版）</a></p>
 <p><a href="https://cdn.jsdelivr.net/gh/ulskhc2002/www/szzd/um.apk">无界浏览（安卓版）</a></p></p>
 
-<p><a target="_blank" href="https://is.gd/qF8pjs">动态网</a></p></p>
-
 <p><a href="https://cdn.jsdelivr.net/gh/ulskhc2002/www/szzd/SzzdOgate.apk">神州正道（安卓版）</a></p>
 <p><a href="https://cdn.jsdelivr.net/gh/ulskhc2002/www/szzd/szzdogate.rar">神州正道（网页版）</a></p>
 <p><a href="https://cdn.jsdelivr.net/gh/ulskhc2002/www/szzd/SzzdOgateTV.apk">神州正道（电视机顶盒版）</a></p></p>
@@ -36,6 +34,7 @@
 <a id="user-content-聚缘阁禁闻导航" class="anchor" href="#%E8%81%9A%E7%BC%98%E9%98%81%E7%A6%81%E9%97%BB%E5%AF%BC%E8%88%AA" aria-hidden="true"><svg class="octicon octicon-link" viewbox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a><a href="https://vz1.ddety.ml/c" rel="nofollow">聚缘阁禁闻导航</a>
 </p>
 <p>
+<p><a target="_blank" href="https://is.gd/qF8pjs">动态网</a></p></p>
 <a id="user-content-动态网加密入口" class="anchor" href="#%E5%8A%A8%E6%80%81%E7%BD%91%E5%8A%A0%E5%AF%86%E5%85%A5%E5%8F%A3" aria-hidden="true"><svg class="octicon octicon-link" viewbox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a><a href="https://a1.gddrry.gq/ccc/hao/585888" rel="nofollow">动态网加密入口</a>
 </p>
 <p>
